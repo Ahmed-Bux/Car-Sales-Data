@@ -67,4 +67,4 @@
  * Extensively utilized specialized Power Query functions to standardize string variations inside buyer profiles and dealership names.
  * Converted date strings into standardized regional date formats to enable DAX time-intelligence functions (TOTALYTD, TOTALMTD) to compile flawlessly without calculation exceptions.
 ### Author 👨‍💻
- * Ghulam Mujtaba
+ * Ahmed Bux
